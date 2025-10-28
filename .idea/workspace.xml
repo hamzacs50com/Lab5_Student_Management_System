@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23895a39-3891-4e47-8ef7-3bd51d21eede" name="Changes" comment="" />
+    <list default="true" id="23895a39-3891-4e47-8ef7-3bd51d21eede" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/StudentManagementSystem/src/backend/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentManagementSystem/src/backend/StudentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentManagementSystem/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentManagementSystem/src/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,16 +23,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/HAMZA/term 5/Programming 2/Labs/lab5/Lab5_Student_Management_System&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/HAMZA/term 5/Programming 2/Labs/lab5",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -46,6 +51,8 @@
       <updated>1761008747960</updated>
       <workItem from="1761008749028" duration="98000" />
       <workItem from="1761008876725" duration="238000" />
+      <workItem from="1761509777131" duration="34000" />
+      <workItem from="1761509882604" duration="9000" />
     </task>
     <servers />
   </component>
