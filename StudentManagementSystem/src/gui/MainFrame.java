@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * This is the main window (JFrame) of your application.
+ * This is the main window (JFrame) of our application.
  * It is hand-coded. Its only job is to hold and switch
  * between all the panels you will make with the .form designer.
  */
@@ -32,7 +32,7 @@ public class MainFrame extends JFrame {
         cardLayout = new CardLayout();
         mainPanelContainer = new JPanel(cardLayout);
 
-        // --- Create instances of all your .form GUI panels ---
+        // --- Create instances of all our .form GUI panels ---
         // We pass 'this' (the MainFrame) to any panel that needs to
         // tell the MainFrame to switch views.
         LoginPanel loginPanel = new LoginPanel(this);
